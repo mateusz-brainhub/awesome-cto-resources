@@ -32,7 +32,7 @@ Venture Capitalist ](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capital
 
 ## Lesson Learned from CTOs & Founders
 
-- [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe): **Blog post** : Learnigns on hiring, doing job of a CTO by ex-Stripe CTO and current OpenAI CTO & Co-founder - Greg Brockman.
+- [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe): **Blog post** : Learnings on hiring, doing job of a CTO by ex-Stripe CTO and current OpenAI CTO & Co-founder - Greg Brockman.
 
 
 
