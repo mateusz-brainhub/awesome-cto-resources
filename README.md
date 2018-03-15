@@ -30,14 +30,9 @@ Venture Capitalist ](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capital
 - [How Much Equity a Technical Cofounder Should Get](http://blog.nahurst.com/how-much-equity-a-technical-cofounder-should): **Blog post** :Through Hirelite, cofounders often ask me how much equity a technical cofounder should get.
 - [Co-Founder Equity Calculator](http://foundrs.com/): **Tool** :Co-Founder Equity Calculator is based on almost 3 years of one-on-one discussions with entrepreneurs through the co-founders meetup and the startup conference.
 
-## Lesson Learned from CTOs & Founders
+## Lessons Learned from CTOs & Founders
 
 - [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe): **Blog post** : Learnings on hiring, doing job of a CTO by ex-Stripe CTO and current OpenAI CTO & Co-founder - Greg Brockman.
-
-
-
-
-
 
 ## Contributing
 
