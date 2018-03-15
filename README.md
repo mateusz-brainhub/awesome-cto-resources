@@ -41,11 +41,11 @@ Venture Capitalist ](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capital
 
 ## Contributing
 
-Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/master/contributing.md) if you want to contribute to this list.
+Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/master/contributing.md) if you want to contribute to this list.
 
 ## Code of conduct
 
-Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/master/code-of-conduct.md) regarding the code of conduct.
+Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/master/code-of-conduct.md) regarding the code of conduct.
 
 ## License
 
