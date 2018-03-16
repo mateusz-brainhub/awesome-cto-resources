@@ -14,13 +14,48 @@ It's a list of (recommended by other CTOs) resources (blog posts, books, present
 - [What does a startup CTO actually do? ](http://www.startuplessonslearned.com/2008/09/what-does-startup-cto-actually-do.html): **Blog post** :The role of a CTO from Eric Ries (Lean Startup Author) perspective.
 - [The Role of the CTO: Four Models for Success](http://www.brixtonspa.com/Career/The_Role_of_the_CTO_4Models.pdf): **PDF** :This paper explores two fundamental questions: What are the current models in corporations for the role of the CTO? Which model is right for your company? This research study is drawn from discussions with hundreds of CIOs and CTOs as well as a written survey of approximately 30 CTOs.
 
+## Lesson Learned from CTOs & Founders
+
+- [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe): **Blog post** : Learnings on hiring, doing job of a CTO by ex-Stripe CTO and current OpenAI CTO & Co-founder - Greg Brockman.
+- [Five years, building a culture, and handing it off](https://medium.com/@kellan/five-years-building-a-culture-and-handing-it-off-54a38c3ab8de): **Blog post** : Flickr CTO lessons on building a tech organization.
+- [Learnings from 80 startup CTOs](https://medium.com/@fesja/learnings-from-80-startup-ctos-88ddb5f9c024): **Blog post** : Notes from a CTO meet-up summarized by Javier Escribano.
+- [Surviving being senior (tech) management](https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027): **Blog post** : Advice by Kellan Elliott-McCrea a former SVP at Blink Health, CTO at Etsy and Flickr Architect.
+- [How to Go From Google Engineer to First-Time CTO | First Round Review](http://firstround.com/review/How-to-Go-From-Google-Engineer-to-First-Time-CTO/): **Blog post** : Artillery Co-founder and CTO Ian Langworth talks about the tactics required to make the jump to technical leadership.
+
+
+## Management
+
+- [On Managing Developers (techcrunch.com)](https://techcrunch.com/2015/06/06/on-managing-developers/): **Blog post** : Jon Evans who's been a software engineer, a novelist, a journalist, and a manager– talks about why managing developers was the trickiest thing he has ever done.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](): **Book** : In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again - by Gene Kim, Kevin Behr, George Spafford.
+
+
+## Tech
+
+- [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/): **Checklist** : Protect your applications from cybersecurity threats by following the SaaS CTO Security Checklist.
+
+## Education
+
+- [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm): **Course** : OCW makes the materials used in the teaching of MIT's subjects available on the Web.
+- [Stanford Engineering Everywhere | Home](https://see.stanford.edu/): **Course** : Stanford Engineering Everywhere (SEE) expands the Stanford experience to students and educators online and at no charge. A computer and an Internet connection are all you need. The SEE course portfolio includes one of Stanford's most popular sequences: the three-course Introduction to Computer Science.
+
+## Team
+
+- [Teammates First Deadlines Second](http://lnbogen.com/?s=proven%20framework): **Blog post** : Even though you’ve got plenty to prove, one of the things that should be on your mind when you’re managing people is how you can engage them in a way that will make them respect you and earn their trust.
+- [Managing and Motivating Developers: Tips for Management Cluefulness | CIO](http://www.cio.com/article/2435469/developer/managing-and-motivating-developers--tips-for-management-cluefulness.html): **Blog post** : Encouraging productivity from your programming staff - at least in the developers' estimation - requires a few special techniques.
+- [21 Rules of Thumb for Managing Software People and Teams](http://www.informit.com/articles/article.aspx?p=1984066): **Blog post** : An oft-overlooked tool in a manager's arsenal is the 'rule of thumb'—a short, pithy statement embodying a powerful message that makes a lasting impression on the listener.
+- [7 simple rules for hiring great developers | JavaWorld](http://www.javaworld.com/article/2089880/mobile-java/7-simple-rules-for-hiring-great-developers.html): **Blog post** : Top developers can write their own ticket in today's tech hiring market, so how do smaller operations or startups attract skilled talent? From weeding out rocks stars to mentoring on the job, hiring managers explain how they build dev teams that really work.
+
+## Culture
+
+- [How To Use Your Unfair Advantage To Create an Unforgettable First Day For New Hires](http://lnbogen.com/2013/04/11/how-to-use-your-unfair-advantage-to-create-an-unforgettable-first-day-for-new-hires/): **Blog post** : Even though feeling productive is a strong emotion, it is also a short-lived one. In order to create a long lasting emotion, a real WOW effect, you have to create a personal bond.
+- [Building a Strong Company Culture, with Airbnb CEO Brian Chesky](https://blog.kissmetrics.com/brian-chesky-alfred-lin-culture/): **Blog post** : Alfred Lin and Brian Chesky explain what culture is and how to build a strong one.
+
 ## Business
 
 - [Zero to One: Notes on Startups, or How to Build the Future Hardcover](http://zerotoonebook.com/): **Book** : On how to build 'next' Facebook, Google and the future tech disruptors. A book by venture capitalist, PayPal co-founder, and early Facebook investor Peter Thiel.
 - [The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244): **Book** : The revolutionary business book that has forever changed corporate America. Based on a truly radical idea—that great companies can fail precisely because they do everything right— this Wall Street Journal, Business Week and New York Times Business bestseller.
 - [Building an Innovative Learning Organization](https://www.amazon.com/Building-Innovative-Learning-Organization-Framework/dp/1119157455): **Book** :How to create this culture in your organization, with detailed explanations, practical examples, and step-by-step instructions so you can get started right away.
 - [The Six Disciplines of Breakthrough Learning: How to Turn Training and Development into Business Results](https://www.amazon.com/Six-Disciplines-Breakthrough-Learning-Development/dp/B012HUKKUA/ref=sr_1_1?s=books&ie=UTF8&qid=1491564129&sr=1-1&keywords=The+Six+Disciplines+of+Breakthrough+Learning%3A+How+to+Turn+Training+and+Development+into+Business+Results%2C+3rd+Edition): **Book** :The Six Disciplines of Breakthrough Learning presents an innovative approach that accelerates the transfer and application of corporate learning.
-
 
 ## Money
 
@@ -30,9 +65,38 @@ Venture Capitalist ](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capital
 - [How Much Equity a Technical Cofounder Should Get](http://blog.nahurst.com/how-much-equity-a-technical-cofounder-should): **Blog post** :Through Hirelite, cofounders often ask me how much equity a technical cofounder should get.
 - [Co-Founder Equity Calculator](http://foundrs.com/): **Tool** :Co-Founder Equity Calculator is based on almost 3 years of one-on-one discussions with entrepreneurs through the co-founders meetup and the startup conference.
 
-## Lessons Learned from CTOs & Founders
+## Networking
 
-- [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe): **Blog post** : Learnings on hiring, doing job of a CTO by ex-Stripe CTO and current OpenAI CTO & Co-founder - Greg Brockman.
+- [How to Win Friends and Influence People - Wikipedia](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People): **Book** : It is one of the first best-selling self-help books ever published. Written by Dale Carnegie (1888–1955) and first published in 1936, it has sold over 30 million copies world-wide, and went on to be named #19 on Time Magazine's list of 100 most influential books in 2011.
+- [9 networking tips for introverts | CIO](http://www.cio.com/article/2895120/relationship-building-networking/9-networking-tips-for-introverts.html): **Blog post** : Successful networking can be difficult for anyone, but it’s especially challenging if you’re introverted and shy by nature. Here, experts share networking tips that should make the process easier, if not completely painless.
+
+## Work-life balance
+
+- [CEO Secrets on Work-Life Balance – 10 Must Dos](https://www.linkedin.com/pulse/ceo-secrets-work-life-balance-10-must-dos-steve-tappin): **Blog post** : Steve Tappin interviewed many top CEOs, asking them what they do to maintain this balance and came
+up with 10 top tips.
+
+## Public speaking
+
+- [An Introvert’s Guide to Better Presentations – Matt Haughey – Medium](https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5): **Blog post** : Improving your public speaking despite hating crowds.
+- [Great Presentations: Tips From Great Presenters](https://www.forbes.com/sites/kenkrogue/2013/05/16/great-presentations-a-checklist-from-great-presenters/#1fb849ef51dd): **Blog post** : Consider this a pre-flight checklist for delivering world-class presentations.
+
+## Remote Teams
+
+- [How to Protect Your IP When Outsourcing | Blog Brainhub.eu](https://brainhub.eu/blog/protect-your-intellectual-property-outsourcing/): **Blog post** : Want to outsource software development for your company but worried about security? Here's how to protect your Intellectual Property while outsourcing..
+- [The Ultimate Guide to Remote Work - Zapier](https://zapier.com/learn/remote-work/): **Ebook** : Working remotely and running a remote team seem like black magic to many. Yet the team of Zapier, has been working remotely since its founding in October of 2011. This book shares everything they've learned about running a remote team — their successes and their failures.
+- [Gitlab Handbook](https://about.gitlab.com/handbook/): **Book** : The GitLab team handbook is the central repository for how they run the company. It consists of about 500 pages of text. As part of GitLab value of being transparent the handbook is open to the world, and the feedback is welcomed.
+
+
+## Sales
+
+- [Jeff Szczepanski- The Developer's Guide To Running Sales Teams on Vimeo](https://vimeo.com/102829438): **Video** : Business of Software Europe 2014. Jeff Szczepanski, Stack Exchange. For technical founders and software developers in general, building out the sales aspects..
+- [A Guide to Sales at Tech Startup—Lessons from Pipeline Summit 2016](https://medium.com/@mwarcholinski/a-guide-to-sales-at-tech-startup-lessons-from-pipeline-summit-2016-5f0fe201ec3a): **Blog post** : When I started to do sales full-time at Brainhub last year, I did what I usually do to master my skills — I tried to find people wiser than me and copied their skills&hacks. So, of course, I started...
+- [Predictable Revenue: Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com](https://www.amazon.com/dp/0984380213/): **Book** : This is NOT another book about how to cold call or close deals. This is an entirely new kind of sales bible for CEOs, entrepreneurs and sales VPs to help you build a sales machine. What does it take for your sales team to generate as many highly-qualified new leads as you want, create predictable revenue, and meet your financial goals without your constant focus and attention?
+
+## Productivity
+
+- [14 super-busy startup founders share their single best productivity tip](http://www.businessinsider.com/14-super-busy-startup-founders-share-their-single-best-productivity-tip-2016-8?IR=T): **Blog post** : In this post, busy CEOs and founders of 14 fast-growing companies shared how they hack their productivity.
+- [How to Be Productive The Mindmap of 35 Habits of... | Funders and Founders Notes](http://notes.fundersandfounders.com/post/59500063068/productivity): **Infographics** : The Mindmap of 35 Habits of the Uber-Productive.
 
 ## Contributing
 
