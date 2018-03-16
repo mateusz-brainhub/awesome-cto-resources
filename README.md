@@ -1,11 +1,25 @@
 # Awesome CTO Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-:bulb: A community-curated list of awesome resources to help you be a better CTO
-
-It's a list of (recommended by other CTOs) resources (blog posts, books, presentations, videos etc.) to become a better manager/technical leader. Feel free to add valuable resources below.
+:bulb: A community-curated list of awesome resources to help you grow as a CTO.
+Originally published as an ebook [How to become a better CTO](https://brainhub.eu/labs/ebooks/how-to-become-better-cto-chief-technical-officer).
 
 ## Table of Contents
 
+  * [Basics](#basics)
+  * [Lesson Learned from CTOs & Founders](#lesson-learned-from-ctos---founders)
+  * [Management](#management)
+  * [Tech](#tech)
+  * [Education](#education)
+  * [Team](#team)
+  * [Culture](#culture)
+  * [Business](#business)
+  * [Money](#money)
+  * [Networking](#networking)
+  * [Work-life balance](#work-life-balance)
+  * [Public speaking](#public-speaking)
+  * [Remote Teams](#remote-teams)
+  * [Sales](#sales)
+  * [Productivity](#productivity)
 
 
 ## Basics
