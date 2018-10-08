@@ -173,3 +173,11 @@ Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/maste
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matt Warcholinski](https://github.com/mateusz-brainhub) has waived all copyright and related or neighboring rights to this work.
+
+## About
+
+Awesome-CTO-Resources is maintained by the Brainhub team. It is funded by Brainhub and the names and logos for Brainhub are trademarks of Brainhub Sp. z o.o.. You can check other open-source projects supported/developed by our teammates here. 
+
+[![Brainhub](https://brainhub.eu/brainhub.svg)](https://brainhub.eu/?utm_source=github)
+
+We love open-source JavaScript software! See our other projects or hire us to build your next web, desktop and mobile application with React, React Native, Electron and Node.js.
