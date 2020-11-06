@@ -62,7 +62,7 @@ Originally published as an ebook [How to become a better CTO](https://brainhub.e
 - [Avoiding A CTO Meltdown: Part 1 – Defining The Role](https://www.forbes.com/sites/danwoods/2013/08/22/avoiding-a-cto-meltdown-part-1-defining-the-cto-role/#343f9b8068f6) : **Blog post** : Article based on a talk with a seasoned veteran about early warning signs that indicate a CTO might need help.
 - [7 Habits of Highly Successful CTOs](https://medium.com/cto-school/7-habits-of-highly-successful-ctos-52bb90e3b1d2#.ln9f973p9) : **Blog post** : Read this post to learn how you can make high quality decisions quickly, and to get key insights into 7 habits of highly successful CTOs.
 - [The Dilemma of the Startup CTO Title](https://medium.com/aws-activate-startup-blog/the-dilemma-of-the-startup-cto-title-85dddee8cc48#.l017nvn7p) : **Blog post** : When hackers take the CTO titles in freshly founded startup, they need to know that at some point in the future the role will be split and they may or may not retain the CTO title.
-
+- [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions) - **Book** : A book that offers clear steps for transforming development and communication and describes incremental ogranizational techniques using jargon-free language.
 
 ## Tech
 
