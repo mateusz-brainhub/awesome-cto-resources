@@ -66,7 +66,7 @@ Originally published as an ebook [How to become a better CTO](https://brainhub.e
 
 ## Tech
 
-- [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) : **Checklist** : Protect your applications from cybersecurity threats by following the SaaS CTO Security Checklist.
+- [The SaaS CTO Security Checklist](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/) : **Checklist** : Protect your applications from cybersecurity threats by following the SaaS CTO Security Checklist.
 
 
 ## Education
